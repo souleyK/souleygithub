@@ -2,7 +2,7 @@
 
 class Reservations extends CI_Controller {
     
-    
+    public class sfdfd
     public function __construct()
         {
                 parent::__construct();
